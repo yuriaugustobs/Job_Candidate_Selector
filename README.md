@@ -14,8 +14,3 @@ O **Job Candidate Selector** é uma aplicação Java desenvolvida para simular u
 ## Tecnologias Utilizadas
 
 - **Java SE**: A linguagem de programação utilizada para desenvolver a aplicação.
-- **JUnit**: Para testes automatizados (caso tenha implementado testes).
-- **Maven**: Para gerenciamento de dependências (se aplicável).
-
-## Estrutura do Projeto
-
