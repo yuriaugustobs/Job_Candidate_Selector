@@ -1,18 +1,21 @@
-## Getting Started
+# Job Candidate Selector
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+O **Job Candidate Selector** é uma aplicação Java desenvolvida para simular um processo de seleção de candidatos. Através desta aplicação, você pode selecionar candidatos com base em suas expectativas salariais, entrar em contato com eles e imprimir a lista dos selecionados. O projeto utiliza conceitos de programação orientada a objetos, manipulação de exceções e controle de fluxo.
 
-The workspace contains two folders by default, where:
+## Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Seleção de candidatos com base em suas expectativas salariais.
+- Impressão dos candidatos selecionados com seus respectivos índices.
+- Tentativas de contato com os candidatos.
+- Exceção personalizada para validar os parâmetros de entrada.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Tecnologias Utilizadas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Java SE**: A linguagem de programação utilizada para desenvolver a aplicação.
+- **JUnit**: Para testes automatizados (caso tenha implementado testes).
+- **Maven**: Para gerenciamento de dependências (se aplicável).
 
-## Dependency Management
+## Estrutura do Projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
